@@ -99,6 +99,7 @@
 		C47443372A36095D00F97E5F = {
 			isa = PBXGroup;
 			children = (
+				C43960932A3632D30006F823 /* Schema.jpeg */,
 				C47443422A36095E00F97E5F /* Workout */,
 				C43960802A3616D50006F823 /* WorkoutWatch Watch App */,
 				C47443412A36095E00F97E5F /* Products */,
@@ -120,7 +121,6 @@
 				C47443432A36095E00F97E5F /* WorkoutApp.swift */,
 				C47443452A36095E00F97E5F /* ContentView.swift */,
 				C47443512A36099100F97E5F /* WorkModel.swift */,
-				C43960932A3632D30006F823 /* Schema.jpeg */,
 				C47443472A36095F00F97E5F /* Assets.xcassets */,
 				C47443492A36095F00F97E5F /* Preview Content */,
 			);
