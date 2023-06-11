@@ -12,6 +12,7 @@
 		C43960862A3616D70006F823 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C43960852A3616D70006F823 /* Assets.xcassets */; };
 		C43960892A3616D70006F823 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C43960882A3616D70006F823 /* Preview Assets.xcassets */; };
 		C439608C2A3616D70006F823 /* WorkoutWatch Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = C439607F2A3616D50006F823 /* WorkoutWatch Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		C43960942A3632D30006F823 /* Schema.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C43960932A3632D30006F823 /* Schema.jpeg */; };
 		C47443442A36095E00F97E5F /* WorkoutApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C47443432A36095E00F97E5F /* WorkoutApp.swift */; };
 		C47443462A36095E00F97E5F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C47443452A36095E00F97E5F /* ContentView.swift */; };
 		C47443482A36095F00F97E5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C47443472A36095F00F97E5F /* Assets.xcassets */; };
@@ -49,6 +50,7 @@
 		C43960832A3616D50006F823 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C43960852A3616D70006F823 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C43960882A3616D70006F823 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C43960932A3632D30006F823 /* Schema.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Schema.jpeg; sourceTree = "<group>"; };
 		C47443402A36095E00F97E5F /* Workout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Workout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C47443432A36095E00F97E5F /* WorkoutApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutApp.swift; sourceTree = "<group>"; };
 		C47443452A36095E00F97E5F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				C47443432A36095E00F97E5F /* WorkoutApp.swift */,
 				C47443452A36095E00F97E5F /* ContentView.swift */,
 				C47443512A36099100F97E5F /* WorkModel.swift */,
+				C43960932A3632D30006F823 /* Schema.jpeg */,
 				C47443472A36095F00F97E5F /* Assets.xcassets */,
 				C47443492A36095F00F97E5F /* Preview Content */,
 			);
@@ -223,6 +226,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C474434B2A36095F00F97E5F /* Preview Assets.xcassets in Resources */,
+				C43960942A3632D30006F823 /* Schema.jpeg in Resources */,
 				C47443482A36095F00F97E5F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
